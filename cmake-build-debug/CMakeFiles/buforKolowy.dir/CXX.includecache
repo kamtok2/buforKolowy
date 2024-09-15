@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/tokar/CLionProjects/buforKolowy/Kolo.h
+vector
+-
+
+C:/Users/tokar/CLionProjects/buforKolowy/main.cpp
+iostream
+-
+vector
+-
+Kolo.h
+C:/Users/tokar/CLionProjects/buforKolowy/Kolo.h
+
